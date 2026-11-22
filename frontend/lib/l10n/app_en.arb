@@ -1,0 +1,42 @@
+{
+  "@@locale": "en",
+  "appName": "Gate",
+  "welcome": "Welcome to {appName}!\nLet’s get started.",
+  "@welcome": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "followSteps": "Follow the steps to learn how everything works.",
+  "coolLetsGo": "COOL, LET'S GO",
+  "okGotcha": "OK, GOTCHA",
+  "chooseLanguage": "Choose your language",
+  "termsAndConditions": "Terms and Conditions",
+  "acceptTerms": "I accept the terms and conditions",
+  "agreeToTermsToContinue": "Please agree to the terms to continue.",
+  "next": "NEXT",
+  "username": "Username",
+  "usernameRequired": "Username is required",
+  "min3Chars": "Minimum 3 characters",
+  "max20Chars": "Maximum 20 characters",
+  "invalidUsernameChars": "Letters, numbers, and underscores only",
+  "chooseAvatar": "Choose your avatar",
+  "finish": "FINISH",
+  "serverUnreachable": "SERVER UNREACHABLE",
+  "retryConnection": "RETRY CONNECTION",
+  "verifyInternet": "Please verify your internet connection.",
+  "establishingConnection": "ESTABLISHING SECURE CONNECTION...",
+  "syncInProgress": "SYNCHRONIZATION IN PROGRESS...",
+  "permissionsTitle": "App Permissions",
+  "permissionsSubtitle": "To give you the best experience, we need a few permissions.",
+  "notifications": "Notifications",
+  "notificationsDesc": "To keep you updated with the latest alerts and news.",
+  "location": "Location",
+  "locationDesc": "To show you relevant information and services near you.",
+  "granted": "Granted",
+  "denied": "Denied",
+  "continueBtn": "CONTINUE",
+  "skip": "SKIP"
+}
